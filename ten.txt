@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Đông Anh", "value": 3252 }, "geometry": { "type": "Point", "coordinates": [105.85,21.14] } },
+{ "type": "Feature", "properties": { "name": "Gia Lâm", "value": 2450 }, "geometry": { "type": "Point", "coordinates": [105.92,21.03] } },
+{ "type": "Feature", "properties": { "name": "Nam Từ Liêm", "value": 8432 }, "geometry": { "type": "Point", "coordinates": [105.76,21.02] } },
+{ "type": "Feature", "properties": { "name": "Thanh Trì", "value": 5049 }, "geometry": { "type": "Point", "coordinates": [105.85,20.95] } },
+{ "type": "Feature", "properties": { "name": "Bắc Từ Liêm", "value": 4882 }, "geometry": { "type": "Point", "coordinates": [105.75,21.07] } },
+{ "type": "Feature", "properties": { "name": "Mê Linh", "value": 1163 }, "geometry": { "type": "Point", "coordinates": [105.70,21.18] } },
+{ "type": "Feature", "properties": { "name": "Hà Đông", "value": 11189 }, "geometry": { "type": "Point", "coordinates": [105.77,20.97] } },
+{ "type": "Feature", "properties": { "name": "Sơn Tây", "value": 584 }, "geometry": { "type": "Point", "coordinates": [105.50,21.14] } },
+{ "type": "Feature", "properties": { "name": "Ba Vì", "value": 656 }, "geometry": { "type": "Point", "coordinates": [105.40,21.17] } },
+{ "type": "Feature", "properties": { "name": "Phúc Thọ", "value": 584 }, "geometry": { "type": "Point", "coordinates": [105.60,21.10] } }
+]
+}
